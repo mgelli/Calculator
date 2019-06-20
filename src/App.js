@@ -1,7 +1,7 @@
-import React from 'react';
+import React,{Component} from 'react';
 import './App.css';
-import ResultComponent from "./src/components/ResultComponent";
-import KeypadComponent from "./src/components/KeypadComponent";
+import ResultComponent from "../src/components/ResultComponent";
+import KeypadComponent from "../src/components/KeypadComponent";
 
 class App extends Component{
 
